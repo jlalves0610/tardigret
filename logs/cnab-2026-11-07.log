@@ -1,0 +1,126 @@
+[2026-11-07 14:14:55] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:15:28] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:15:43] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 14:18:29] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:18:31] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 14:20:57] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:20:58] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 14:23:12] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:23:14] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 14:28:59] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:29:20] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:29:57] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:30:43] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:31:05] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:31:45] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:32:53] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:32:59] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 14:33:46] ERROR: Linha 6: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:47] ERROR: Linha 7: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:47] ERROR: Linha 8: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 9: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 10: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 11: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 12: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 13: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 14: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 15: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 16: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 17: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 18: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 19: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 20: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 21: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 22: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 23: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 24: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 25: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 26: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 27: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 28: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:33:53] ERROR: Linha 29: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:04] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:59:33] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 14:59:35] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 14:59:35] ERROR: Linha 6: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 7: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 8: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 9: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 10: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 11: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 12: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 13: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 14: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 15: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 16: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 17: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 18: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 19: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 20: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 21: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 22: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 23: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 24: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 25: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 26: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 27: NSR 1 duplicado no DDA do lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 28: Segmento H sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:35] ERROR: Linha 29: Segmento Y(03) sem título DDA correspondente no lote 2083.  
+[2026-11-07 14:59:38] ERROR: Não foi possível recuperar o ID do cedente : 48903821000164 - 48556  
+[2026-11-07 15:11:46] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 15:12:20] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 15:12:24] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 16:29:12] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 16:29:48] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 16:29:51] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 16:43:36] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 17:55:10] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 17:55:37] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 17:55:38] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 17:58:38] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 17:58:39] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 18:04:55] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 18:05:15] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 18:05:17] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 18:07:49] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 18:07:52] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 18:08:41] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 18:08:43] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 18:14:38] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 18:14:40] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 18:15:20] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 18:15:21] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:34:28] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:34:49] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:34:51] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:38:30] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:38:33] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:39:42] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:39:45] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:42:21] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:42:23] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:42:49] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:53:20] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:53:44] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:53:46] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:56:46] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:56:49] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:57:04] ERROR: O arquivo de retorno já foi processado anteriormente. O hash do arquivo é: c9f0c8c15ac36e8ec38bc7419c4b96f9426efdae87e459826785e3995a6e6fb4  
+[2026-11-07 19:57:55] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 19:57:56] INFO: Iniciando processamento do arquivo: ACC.ABPTXP.SIACC2.R000000.202611061794017042  
+[2026-11-07 19:58:01] ERROR: O arquivo de retorno já foi processado anteriormente. O hash do arquivo é: c9f0c8c15ac36e8ec38bc7419c4b96f9426efdae87e459826785e3995a6e6fb4  
+[2026-11-07 20:12:59] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 20:13:24] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 20:13:27] INFO: Iniciando processamento do arquivo: ACC.ABPPNE.SIACC2.R483425.20261106230402947  
+[2026-11-07 20:14:27] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 20:14:29] INFO: Iniciando processamento do arquivo: ACC.ABPPNE.SIACC2.R483425.20261106230402947  
+[2026-11-07 20:14:36] ERROR: O arquivo de retorno já foi processado anteriormente. O hash do arquivo é: ce9adf8c6fc87f5d2ad4b79e14f12ae8b4254e6a78114e35abbacac31e5157a3  
+[2026-11-07 20:15:46] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 20:15:49] INFO: Iniciando processamento do arquivo: ACC.ABPPNE.SIACC2.R483425.20261106230402947  
+[2026-11-07 20:15:57] ERROR: O arquivo de retorno já foi processado anteriormente. O hash do arquivo é: ce9adf8c6fc87f5d2ad4b79e14f12ae8b4254e6a78114e35abbacac31e5157a3  
+[2026-11-07 20:16:21] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 20:16:23] INFO: Iniciando processamento do arquivo: ACC.ABPPNE.SIACC2.R483425.20261106230402947  
+[2026-11-07 20:16:35] ERROR: O arquivo de retorno já foi processado anteriormente. O hash do arquivo é: ce9adf8c6fc87f5d2ad4b79e14f12ae8b4254e6a78114e35abbacac31e5157a3  
+[2026-11-07 20:17:48] INFO: Iniciando importação CNAB Caixa  
+[2026-11-07 20:17:50] INFO: Iniciando processamento do arquivo: ACC.ABPPNE.SIACC2.R483425.20261106230402947  
+[2026-11-07 20:17:52] ERROR: O arquivo de retorno já foi processado anteriormente. O hash do arquivo é: ce9adf8c6fc87f5d2ad4b79e14f12ae8b4254e6a78114e35abbacac31e5157a3  
